@@ -10,7 +10,7 @@ You have been invited by another penguin, whom is a celebrity, is throwing a par
 However, due to secretive information, I decided that my location is redacted, and it is your job to discover it by yourself.
 I have included instructions on how to do so at the end of letter.
 
-_ _ _ _ _ _ _ _ , _ _
+_ _ _ _ _ _ _ _
 
 Signed off,
 Tux
