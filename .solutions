@@ -19,9 +19,19 @@ pwd
 
 4. Put `kasetsart` into answer file then execute `send-answer`
 
-5. 
+5.  
+
+`tr 'n-za-mN-ZA-M' 'a-zA-Z'`
+
 6. 
+
+`tar -tf box.tar.gz | wc -l`
+
 7. 
-8. 
-9. 
-10. 
+
+`sort letters.txt | uniq -u`
+
+8.
+
+`man tar`
+Then, you'll see that `-A` is for concatenating two archives together so the answer is A.

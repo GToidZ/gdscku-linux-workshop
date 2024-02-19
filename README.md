@@ -1,7 +1,7 @@
 # Meet Pingu
 Pingu is a penguin from Antartica. He wants to go to the annual penguin meeting, however due to secrey of location, he'll need to figure out where the city of meeting is being held.
 
-Here's the excerpt of the letter to Pingu:
+Here's the excerpt of the letter:
 
 ```
 Dearest friend penguin,
