@@ -10,6 +10,7 @@ We can use `tr` to map characters and rotate them around to get various output.
 
 In this case, we lose the number to rotate characters, so here are all possible rotations that we can make.
 
+```
 ROT-3 = tr 'd-za-cD-ZA-C' 'a-zA-Z'
 ROT-4 = tr 'e-za-dE-ZA-D' 'a-zA-Z'
 ROT-5 = tr 'f-za-eF-ZA-E' 'a-zA-Z'
@@ -33,6 +34,7 @@ ROT-22 = tr 'w-za-vW-ZA-V' 'a-zA-Z'
 ROT-23 = tr 'x-za-wX-ZA-W' 'a-zA-Z'
 ROT-24 = tr 'y-za-xY-ZA-X' 'a-zA-Z'
 ROT-25 = tr 'z-za-yZ-ZA-Y' 'a-zA-Z'
+```
 
 We can use `cat` and pipe the output to `tr`!
 
