@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Attempting to submit answer..."
+
+key=($(cat ./answer.txt | md5sum))
+url="https://gist.githubusercontent.com/GToidZ/5aafaa3110085f14dd26435d75c6d881/raw/111e91b55878466b737d3b0b8a9c1ae5e4693b78/"
+
+curl -L "$url$key"

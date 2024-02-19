@@ -10,8 +10,15 @@ pwd
 ```
 
 2. 
-3. `head -n4 ../README.md | tail -n1 | wc -c`
-4. 
+
+`find pile-of-files -type f -not -empty`
+
+3.
+
+`head -n4 ../README.md | tail -n1 | wc -c`
+
+4. Put `kasetsart` into answer file then execute `send-answer`
+
 5. 
 6. 
 7. 
