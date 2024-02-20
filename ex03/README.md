@@ -50,3 +50,11 @@ With this you can also get the specific point in file,
 # Assuming that this file has 50 lines, you are getting line 30-35.
 tail -n20 README.md | head -n5
 ```
+
+## Reminder
+
+You can always get the file size by using `ls` command with flag `l`:
+
+```sh
+ls -l
+```
