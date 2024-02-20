@@ -13,6 +13,10 @@ count the characters that present,
 you'll know more where this is sent.
 ```
 
+Hints:
+* Seems like the size of file `LINENO` is trying to tell you something, how can you see its size?
+* If you are able to count the characters of the correct line in `README.md` file in this folder, does it correlate to any letters in `REFERENCE`?
+
 ## Getting certain lines in a file
 
 The command shall be used are `head` and `tail`.
